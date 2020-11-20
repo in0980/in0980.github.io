@@ -1,5 +1,3 @@
-# [in0980.github.io](https://in0980.github.io/)
-
 # IN0980 - Teste de Software e Depuração (Tópicos Avançados em Engenharia de Software 3)
 
 ## Edição 2020.2
@@ -54,31 +52,31 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns materiais 
 -- | ---- | -------
 01	|	12/11/2020 (Thu)	|	Apresentação da disciplina, visão geral, admin
 02	|	17/11/2020 (Tue)	|	Definições: Falta versus falha, Teste versus depuração, e os vários tipos de teste.
-03	|	19/11/2020 (Thu)	|	Definições: Falta versus falha, Teste versus depuração, e os vários tipos de teste.
-04	|	24/11/2020 (Tue)	|	Discussão de trabalhos (Líder: Professores)
+03	|	19/11/2020 (Thu)	|	Conceitos básicos, Framework de testes. Demo: JUnit
+04	|	24/11/2020 (Tue)	|	****Discussão de trabalhos**** (Líder: Professores)
 05	|	26/11/2020 (Thu)	|	Framework de testes. Demo: JUnit + Python unittest
-06	|	1/12/2020 (Tue)	|	Discussão de trabalhos (Líder: ???)
+06	|	1/12/2020 (Tue)	|	**Discussão de trabalhos** (Líder: ???)
 07	|	3/12/2020 (Thu)	|	Sistemas de build. Demo: Gradle
-08	|	8/12/2020 (Tue)	|	Discussão de trabalhos (Líder: ???)
+08	|	8/12/2020 (Tue)	|	**Discussão de trabalhos** (Líder: ???)
 09	|	10/12/2020 (Thu)	|	Cobertura
-10	|	15/12/2020 (Tue)	|	Discussão de trabalhos (Líder: ???)
+10	|	15/12/2020 (Tue)	|	**Discussão de trabalhos** (Líder: ???)
 11	|	17/12/2020 (Thu)	|	TBD
 \-	|	\-	|	Recesso
 12	|	19/01/2021 (Tue)	|	TBD
 13	|	21/01/2021 (Thu)	|	Teste de mutação
-14	|	26/01/2021 (Tue)	|	Discussão de trabalhos (Líder: ???)
+14	|	26/01/2021 (Tue)	|	**Discussão de trabalhos** (Líder: ???)
 15	|	28/01/2021 (Thu)	|	Teste combinatorial
-16	|	2/02/2021 (Tue)	|	Discussão de trabalhos (Líder: ???)
+16	|	2/02/2021 (Tue)	|	**Discussão de trabalhos** (Líder: ???)
 17	|	4/02/2021 (Thu)	|	Behavior-Driven Development
-18	|	9/02/2021 (Tue)	|	Discussão de trabalhos (Líder: ???)
+18	|	9/02/2021 (Tue)	|	**Discussão de trabalhos** (Líder: ???)
 19	|	11/02/2021 (Thu)	|	TBD
 \-	|	16/02/2021 (Tue)	|	Carnaval
 20	|	18/02/2021 (Thu)	|	UI Testing
-21	|	23/02/2021 (Tue)	|	Discussão de trabalhos (Líder: ???)
+21	|	23/02/2021 (Tue)	|	**Discussão de trabalhos** (Líder: ???)
 22	|	25/02/2021 (Thu)	|	Fuzzing
-23	|	2/03/2021 (Tue)	|	Discussão de trabalhos (Líder: ???)
+23	|	2/03/2021 (Tue)	|	**Discussão de trabalhos** (Líder: ???)
 24	|	4/03/2021 (Thu)	|	Regression Testing
-25	|	9/03/2021 (Tue)	|	Discussão de trabalhos (Líder: ???)
+25	|	9/03/2021 (Tue)	|	**Discussão de trabalhos** (Líder: ???)
 26	|	11/03/2021 (Thu)	|	TBD
 27	|	16/03/2021 (Tue)	|	TBD
 28	|	18/03/2021 (Thu)	|	Apresentações dos projetos
