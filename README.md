@@ -53,7 +53,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns materiais 
 01	|	12/11/2020 (Thu)	|	Apresentação da disciplina, visão geral, admin
 02	|	17/11/2020 (Tue)	|	Definições: Falta versus falha, Teste versus depuração, e os vários tipos de teste.
 03	|	19/11/2020 (Thu)	|	Conceitos básicos, Framework de testes. Demo: JUnit
-04	|	24/11/2020 (Tue)	|	****Discussão de trabalhos**** (Líder: Professores)
+04	|	24/11/2020 (Tue)	|	**Discussão de trabalhos** (Líder: Professores)
 05	|	26/11/2020 (Thu)	|	Framework de testes. Demo: JUnit + Python unittest
 06	|	1/12/2020 (Tue)	|	**Discussão de trabalhos** (Líder: ???)
 07	|	3/12/2020 (Thu)	|	Sistemas de build. Demo: Gradle
