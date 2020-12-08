@@ -64,7 +64,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns materiais 
 \-	|	\-	|	Recesso
 12	|	19/01/2021 (Tue)	|	TBD
 13	|	21/01/2021 (Thu)	|	Combinatorial Testing
-14	|	26/01/2021 (Tue)	|	**Discussão de trabalhos**<br />(Líder: ???)<br /><br />*Changhai Nie, Hareton Leung*. 2011. **A survey of combinatorial testing**. *ACM Computing Surveys* 43, 2, Article 11 (January 2011), 29 pages. DOI: https://doi.org/10.1145/1883612.1883618
+14	|	26/01/2021 (Tue)	|	**Discussão de trabalhos**<br />(Líder: Vinicius)<br /><br />*Changhai Nie, Hareton Leung*. 2011. **A survey of combinatorial testing**. *ACM Computing Surveys* 43, 2, Article 11 (January 2011), 29 pages. DOI: https://doi.org/10.1145/1883612.1883618
 15	|	28/01/2021 (Thu)	|	*Behavior-Driven Development*
 16	|	2/02/2021 (Tue)	|	**Discussão de trabalhos**<br />(Líder: **Bernardo**)<br /><br />*Mohammad Ghafari, Timm Gross, Davide Fucci, and Michael Felderer*. 2020. **Why Research on Test-Driven Development is Inconclusive?** *Proceedings of the 14th ACM / IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)*. Association for Computing Machinery, New York, NY, USA, Article 25, 1–10. DOI: https://doi.org/10.1145/3382494.3410687<br /><br />*Adnan Causevic, Daniel Sundmark and Sasikumar Punnekkat*. **Factors Limiting Industrial Adoption of Test Driven Development: A Systematic Review**. *Fourth IEEE International Conference on Software Testing, Verification and Validation*, Berlin, 2011, pp. 337-346, doi: https://doi.org/10.1109/ICST.2011.19.
 17	|	4/02/2021 (Thu)	|	UI Testing
