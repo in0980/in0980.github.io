@@ -64,7 +64,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns materiais 
 \-	|	\-	|	Recesso
 12	|	19/01/2021 (Tue)	|	TBD
 13	|	21/01/2021 (Thu)	|	Combinatorial Testing
-14	|	26/01/2021 (Tue)	|	**Discussão de trabalhos**<br />(Líder: Vinicius)<br /><br />*Changhai Nie, Hareton Leung*. 2011. **A survey of combinatorial testing**. *ACM Computing Surveys* 43, 2, Article 11 (January 2011), 29 pages. DOI: https://doi.org/10.1145/1883612.1883618
+14	|	26/01/2021 (Tue)	|	**Discussão de trabalhos**<br />(Líder: **Vinicius**)<br /><br />*Changhai Nie, Hareton Leung*. 2011. **A survey of combinatorial testing**. *ACM Computing Surveys* 43, 2, Article 11 (January 2011), 29 pages. DOI: https://doi.org/10.1145/1883612.1883618
 15	|	28/01/2021 (Thu)	|	*Behavior-Driven Development*
 16	|	2/02/2021 (Tue)	|	**Discussão de trabalhos**<br />(Líder: **Bernardo**)<br /><br />*Mohammad Ghafari, Timm Gross, Davide Fucci, and Michael Felderer*. 2020. **Why Research on Test-Driven Development is Inconclusive?** *Proceedings of the 14th ACM / IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)*. Association for Computing Machinery, New York, NY, USA, Article 25, 1–10. DOI: https://doi.org/10.1145/3382494.3410687<br /><br />*Adnan Causevic, Daniel Sundmark and Sasikumar Punnekkat*. **Factors Limiting Industrial Adoption of Test Driven Development: A Systematic Review**. *Fourth IEEE International Conference on Software Testing, Verification and Validation*, Berlin, 2011, pp. 337-346, doi: https://doi.org/10.1109/ICST.2011.19.
 17	|	4/02/2021 (Thu)	|	UI Testing
@@ -76,11 +76,12 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns materiais 
 22	|	25/02/2021 (Thu)	|	Regression Testing
 23	|	2/03/2021 (Tue)	|	**Discussão de trabalhos**<br />(Líder: **Davi**)<br /><br />*Shin Yoo, Mark Harman*. **Regression testing minimization, selection and prioritization: a survey**. *Software Testing, Verification and Reliability (STVR)* 22, no. 2 (2012): 67-120. DOI: https://doi.org/10.1002/stv.430.
 24	|	4/03/2021 (Thu)	|	Flakiness
-25	|	9/03/2021 (Tue)	|	**Discussão de trabalhos**<br />(Líder: ???)<br /><br />*Jonathan Bell, Owolabi Legunsen, Michael Hilton, Lamyaa Eloussi, Tifany Yung, Darko Marinov*. **DeFlaker: Automatically detecting flaky tests**. In *IEEE/ACM 40th International Conference on Software Engineering (ICSE'2018)*, pp. 433-444. IEEE, 2018. DOI: https://doi.org/10.1145/3180155.3180164.<br /><br />*Wing Lam, Stefan Winter, Anjiang Wei, Tao Xie, Darko Marinov, Jonathan Bell*. **A large-scale longitudinal study of flaky tests**. *Proc. ACM Program. Lang. 4, OOPSLA*, Article 202 (November 2020), 29 pages. DOI: https://doi.org/10.1145/3428270.
+25	|	9/03/2021 (Tue)	|	**Discussão de trabalhos**<br />(Líder: **Keila**)<br /><br />*Jonathan Bell, Owolabi Legunsen, Michael Hilton, Lamyaa Eloussi, Tifany Yung, Darko Marinov*. **DeFlaker: Automatically detecting flaky tests**. In *IEEE/ACM 40th International Conference on Software Engineering (ICSE'2018)*, pp. 433-444. IEEE, 2018. DOI: https://doi.org/10.1145/3180155.3180164.<br /><br />*Wing Lam, Stefan Winter, Anjiang Wei, Tao Xie, Darko Marinov, Jonathan Bell*. **A large-scale longitudinal study of flaky tests**. *Proc. ACM Program. Lang. 4, OOPSLA*, Article 202 (November 2020), 29 pages. DOI: https://doi.org/10.1145/3428270.
 26	|	11/03/2021 (Thu)	|	Machine Learning Testing
 27	|	16/03/2021 (Tue)	|	**Discussão de trabalhos**<br />(Líder: **Rodrigo Lima**)<br /><br />*Jie M. Zhang, Mark Harman, Lei Ma, Yang Liu*. **Machine Learning Testing: Survey, Landscapes and Horizons**. Accepted for publication in *IEEE Transactions on Software Engineering*. DOI: https://doi.org/10.1109/TSE.2019.2962027.
-28	|	18/03/2021 (Thu)	|	**Discussão de trabalhos**<br />(Líder: ???)<br /><br />*Ivan do Carmo Machado, John D. McGregor, Yguaratã Cerqueira Cavalcanti, Eduardo Santana de Almeida*. **On strategies for testing software product lines: A systematic literature review**. *Information and Software Technology*, Volume 56, Issue 10, 2014, Pages 1183-1199, ISSN 0950-5849, https://doi.org/10.1016/j.infsof.2014.04.002.
+28	|	18/03/2021 (Thu)	|	**Discussão de trabalhos**<br />(Líder: **Rodrigo Peixoto**)<br /><br />*Vahid Garousi, Michael Felderer, Çağrı Murat Karapıçak, Uğur Yılmaz*. **Testing embedded software: A survey of the literature**. *Information and Software Technology* 104 (2018): 14-45, https://doi.org/10.1016/j.infsof.2018.06.016. 
 29	|	23/03/2021 (Tue)	|	TBD
 30	|	25/03/2021 (Thu)	|	TBD
 31	|	30/03/2021 (Tue)	|	Apresentações dos projetos
 32	|	01/04/2021 (Thu)	|	Apresentações dos projetos
+
