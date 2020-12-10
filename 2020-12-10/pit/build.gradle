@@ -1,5 +1,4 @@
 apply plugin: 'java' 
-apply plugin: 'info.solidsoft.pitest'
 
 repositories {
    mavenCentral()         
@@ -33,7 +32,7 @@ apply plugin: "info.solidsoft.pitest"
 
 // configuration
 pitest {
-    targetClasses = ["br.*"] //["geometry.*"] //["${project.group}.*"] 
+    targetClasses = ["br.*","geometry.*"] //["${project.group}.*"] 
     pitestVersion = '1.4.1' //not needed when a default PIT version should be used
     threads = 4
     outputFormats = ['XML', 'HTML']
