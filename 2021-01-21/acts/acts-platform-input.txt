@@ -1,0 +1,9 @@
+[System]
+-- specify system name
+Name: Application Platform Example
+[Parameter]
+OS (enum): Windows, Mac, Linux, Android
+Browser (enum): Chrome, Firefox, Opera, Edge, Brave
+Protocol (enum): IPv4, IPv6
+CPU (enum): Intel, AMD
+DB (enum): MySQL, Sybase, Oracle, PostgreSQL, MSSQL Server

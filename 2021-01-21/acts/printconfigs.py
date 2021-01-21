@@ -1,6 +1,4 @@
-import code
 import sys
-import ast
 
 def parse_config(filename):
     configs = []
@@ -33,12 +31,7 @@ def main():
     configs = parse_config("output.txt")
     # Run code for all configs
     for config in configs:
-        print("Running code with config {}".format(config))
-        try:
-            code.important_function(int(config["pressure"]), int(config["volume"]), int(config["velocity"]), ast.literal_eval(config["low_fuel"]))
-            print("Everything looks good!")
-        except Exception as err:
-            print("Something bad happened: ", err)
+        print("config {}".format(config))
 
 if __name__ == "__main__":
     main()
