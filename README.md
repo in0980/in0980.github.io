@@ -54,8 +54,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns materiais 
 03	|	13/05/2021 (Thu)	|	Conceitos básicos
 04	|	18/05/2021 (Tue)	|	**Discussão de trabalhos** <br />(Líder: **Professor**)<br /><br /> *Mary Jean Harrold*. 2000. [**Testing: A Roadmap**](https://doi.org/10.1145/336512.336532). In *Conference on The Future of Software Engineering (FOSE'00 @ ICSE'00)*. Association for Computing Machinery, New York, NY, USA, 61–72. DOI: [https://doi.org/10.1145/336512.336532](https://doi.org/10.1145/336512.336532).
 05	|	20/05/2021 (Thu)	|	**Sem aula --- AST'21 @ ICSE'21**
-06	|	27/05/2021 (Thu)	|	**Discussão de trabalhos** <br />(Apresentador: **TBD** - Historiador: **TBD** - Revisor: **TBD** - Pesquisador: **TBD**)<br /><br /> *Antonia Bertolino*. 2007. [**Software Testing Research: Achievements, Challenges, Dreams**](https://doi.org/10.1109/FOSE.2007.25). In *Future of Software Engineering (FOSE '07)*, Minneapolis, MN, 2007, pp. 85-103, DOI: [https://doi.org/10.1109/FOSE.2007.25](https://doi.org/10.1109/FOSE.2007.25).
-07	|	25/06/2021 (Tue)	|	Framework de testes. Demo: Pytest/JUnit
+06	|	25/05/2021 (Tue)	|	**Discussão de trabalhos** <br />(Apresentador: **TBD** - Historiador: **TBD** - Revisor: **TBD** - Pesquisador: **TBD**)<br /><br /> *Antonia Bertolino*. 2007. [**Software Testing Research: Achievements, Challenges, Dreams**](https://doi.org/10.1109/FOSE.2007.25). In *Future of Software Engineering (FOSE '07)*, Minneapolis, MN, 2007, pp. 85-103, DOI: [https://doi.org/10.1109/FOSE.2007.25](https://doi.org/10.1109/FOSE.2007.25).
+07	|	27/06/2021 (Thu)	|	Framework de testes. Demo: Pytest/JUnit
 08	|	01/06/2021 (Tue)	|	...
 09	|	03/06/2021 (Thu)	|	**Corpus Christi --- ponto facultativo**
 10	|	08/06/2021 (Tue)	|	...
