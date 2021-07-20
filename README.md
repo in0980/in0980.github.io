@@ -72,5 +72,10 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns materiais 
 21 | 15/07/2021 (Thu) | **ACOMPANHAMENTO DE PROJETO**
 22 | 20/07/2021 (Tue) | Regression + Flakiness
 23 | 22/07/2021 (Thu) | **Discussão de trabalhos** <br /> Apresentador(a): **Diogenes** - Historiador(a): **Emerson** - Revisor(a): **Lucas** - Pesquisador(a): **Aline** <br /><br /> *Shin Yoo, Mark Harman*. [**Regression testing minimization, selection and prioritization: a survey**](https://doi.org/10.1002/stv.430). *Software Testing, Verification and Reliability (STVR)* 22, no. 2 (2012): 67-120. DOI: [https://doi.org/10.1002/stv.430](https://doi.org/10.1002/stv.430).
-24 | 27/07/2021 (Tue) | TBD
+24 | 27/07/2021 (Tue) | TBD (Demo: Major?)
 25 | 29/07/2021 (Thu) | **Discussão de trabalhos** <br /> Apresentador(a): **Reydne** - Historiador(a): **Thayonara** - Revisor(a): **Vitor** - Pesquisador(a): **Raquel** <br /><br /> *Wing Lam, Stefan Winter, Anjiang Wei, Tao Xie, Darko Marinov, Jonathan Bell*. [**A large-scale longitudinal study of flaky tests**](https://doi.org/10.1145/3428270). *Proc. ACM Program. Lang. 4, OOPSLA*, Article 202 (November 2020), 29 pages. DOI: [https://doi.org/10.1145/3428270](https://doi.org/10.1145/3428270).
+26 | 3/08/2021 (Tue) | **ACOMPANHAMENTO DE PROJETO**
+27 | 5/08/2021 (Thu) | TBD
+28 | 10/08/2021 (Tue) | **ACOMPANHAMENTO DE PROJETO**
+29 | 12/08/2021 (Thu) | Apresentações dos projetos
+30 | 17/08/2021 (Tue) | Apresentações dos projetos
