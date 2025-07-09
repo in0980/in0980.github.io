@@ -14,7 +14,7 @@ Terças (10-12h) e Quintas (08-10h), Google Meet
 * [Google Classroom](https://classroom.google.com/)
 
 ### Ementa
-A ementa da parte téorica inclui os seguintes tópicos:
+A ementa da parte teórica inclui os seguintes tópicos:
 * conceitos básicos sobre teste e depuração de software
 * o caso de teste
   * entrada, asserção, test harness (setup, teardown)
